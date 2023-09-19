@@ -9,6 +9,6 @@ data:
   
   # Or set as complete file contents (even JSON!)
   keys: | 
-    image.public.key=771 
+    image.public.key=779
     rsa.public.key=42
     
